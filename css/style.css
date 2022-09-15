@@ -34,4 +34,5 @@ img {
 	width: calc(33.3% - 2rem);
 	margin: 1rem;
 	background-color: salmon;
+	text-align: center;
 }
